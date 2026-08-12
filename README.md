@@ -66,5 +66,5 @@ brand research at **LBank**, event ops at **BingX**.
 - Writing → *(coming soon)*
 - Hugging Face → [Beltran12138](https://huggingface.co/Beltran12138)
 - X → [@zkBernard12138](https://x.com/zkbernard12138)
-- LinkedIn → [han-zhao](https://www.linkedin.com/in/han-zhao-b79ab2254/)
+- LinkedIn → [bernard-zhao](https://www.linkedin.com/in/bernard-zhao/)
 - Email → bernard12138@gmail.com

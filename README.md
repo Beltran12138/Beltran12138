@@ -1,4 +1,4 @@
-# Bernard ZHAO (赵晗)
+# Bernard ZHAO
 
 > Product & research at the intersection of **AI agents** and **crypto markets**.
 > Hong Kong. Building [BitV](https://highblock.com) — a licensed virtual-asset platform — by day; shipping open tooling for market intelligence by night.

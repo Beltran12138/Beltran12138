@@ -51,8 +51,10 @@ A separate thread — I study linguistics as a long-running interest, and these 
 
 ## Background
 
-**Product & Research** at HighBlock (BitV) — Hong Kong licensed virtual-asset platform.
-Perpetuals PRD, OTC back-office architecture, brokerage market research, and internal AI workflow.
+**Product & Research** at HighBlock (BitV) — a Hong Kong licensed virtual-asset and securities
+platform. Forward-deployed across business lines: perpetual-futures PRD, OTC desk and back office,
+institutional omnibus account architecture, brokerage-system vendor selection, and the product
+org's internal AI stack.
 
 Before that: brand & PR at **Sinohope Tech** (1611.HK), livestreaming ops at **KuCoin**,
 brand research at **LBank**, event ops at **BingX**.
@@ -63,8 +65,9 @@ brand research at **LBank**, event ops at **BingX**.
 
 ## Elsewhere
 
-- Writing → *(coming soon)*
+- Site → [beltran12138.github.io](https://beltran12138.github.io)
 - Hugging Face → [Beltran12138](https://huggingface.co/Beltran12138)
 - X → [@zkBernard12138](https://x.com/zkbernard12138)
 - LinkedIn → [bernard-zhao](https://www.linkedin.com/in/bernard-zhao/)
+- Xiaohongshu → [伯纳德zkBernard](https://www.xiaohongshu.com/user/profile/636f19c2000000001f018e3d) *(Chinese long-form on LLMs and language)*
 - Email → bernard12138@gmail.com

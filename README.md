@@ -63,7 +63,7 @@ Product & research at **HighBlock (BitV)**, a Hong Kong licensed virtual-asset a
 Before that: brand & PR at **Sinohope Tech** (1611.HK), livestreaming ops at **KuCoin**,
 brand research at **LBank**, event ops at **BingX**.
 
-Co-author, *AI 智能投资手册* (forthcoming) — the chapter on decision review and feedback loops.
+Co-author, *AI 智能投资手册* — the chapter on decision review and feedback loops.
 
 **CUHK** — Journalism & Communication, 2026. Exchange at **IESEG** (Paris & Lille).
 
